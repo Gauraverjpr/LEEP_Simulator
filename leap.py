@@ -38,7 +38,7 @@ navy_hover = "#1E40AF"
 # --- 2. TRANSLATION DICTIONARY (BILINGUAL ENGINE) ---
 T = {
     "app_title": "LEEP" if not is_hindi else "लीप",
-    "app_subtitle": "LATERAL ENTRY ENGINEERING PROCESS • ELIGIBILITY SIMULATOR" if not is_hindi else "लेटरल एंट्री इंजीनियरिंग प्रवेश • पात्रता सिम्युलेटर",
+    "app_subtitle": "LATERAL ENTRY ENGINEERING PROGRAMME • ELIGIBILITY SIMULATOR" if not is_hindi else "लेटरल एंट्री इंजीनियरिंग प्रवेश • पात्रता सिम्युलेटर",
     "disclaimer_title": "OFFICIAL DISCLAIMER:" if not is_hindi else "आधिकारिक अस्वीकरण (Disclaimer):",
     "disclaimer_text": (
         "This Eligibility Simulator is provided for informational and guidance purposes only. The projected priority tiers and "
